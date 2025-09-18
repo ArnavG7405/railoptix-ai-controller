@@ -1,0 +1,5 @@
+{
+  "name": "RailOptix AI Controller",
+  "description": "An intelligent decision-support system prototype that assists railway traffic controllers in making optimized, real-time decisions for train movements using AI-powered recommendations and simulations.",
+  "requestFramePermissions": []
+}
