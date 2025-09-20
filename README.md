@@ -1,6 +1,6 @@
 # RailOptix AI Controller 
 
-An intelligent decision-support system prototype that assists railway traffic controllers in making optimized, real-time decisions for train movements using AI-powered recommendations and simulations. This project leverages the Google Gemini API to generate dynamic, realistic railway scenarios and provide actionable insights.
+A prototype of an intelligent decision-support system prototype that assists railway traffic controllers in making optimized, real-time decisions for train movements using AI-powered recommendations and simulations. This project leverages the Google Gemini API to generate dynamic, realistic railway scenarios and provide actionable insights.
 
 ![RailOptix AI Controller Screenshot](https://github.com/ArnavG7405/railoptix-ai-controller/blob/main/Screenshot%20(2).png?raw=true)
 ![RailOptix AI Controller Simulation 1 Screenshot](https://github.com/ArnavG7405/railoptix-ai-controller/blob/main/Screenshot%20(4).png?raw=true)
